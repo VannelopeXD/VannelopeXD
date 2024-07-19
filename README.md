@@ -1,9 +1,9 @@
-## Hello World! Sou a Sofia Gozzoli 👋
+## Hello World! I am Sofia Gozzoli 👋
 
-- 🔭 Trabalhando na John Deere
-- 🌱 Estudando Java, React, entre outros.
-- 📫 Contate-me via: www.linkedin.com/in/sofia-gozzoli
-- 😄 Pronouns: Ela/Dela
+- 🔭 Working at John Deere
+- 🌱 Studying Java, React, among others.
+- 📫 Contact me via: www.linkedin.com/in/sofia-gozzoli
+- 😄 Pronouns: She/Her
 
 ###
 
