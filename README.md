@@ -1,8 +1,8 @@
 ## Hello World! I am Sofia Gozzoli 👋
 
 - 🔭 Working at John Deere
-- 🌱 Studying Java, React, among others.
-- 📫 Contact me via: www.linkedin.com/in/sofia-gozzoli
+- 🌱 Studying Java, React, etc.
+- 📫 Contact me: www.linkedin.com/in/sofia-gozzoli
 - 😄 Pronouns: She/Her
 
 ###
