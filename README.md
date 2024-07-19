@@ -1,4 +1,4 @@
-## Olá Mundo! Sou a Sofia Gozzoli 👋
+## Hello World! Sou a Sofia Gozzoli 👋
 
 - 🔭 Trabalhando na John Deere
 - 🌱 Estudando Java, React, entre outros.
