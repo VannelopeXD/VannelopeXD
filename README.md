@@ -48,7 +48,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VannelopeXD/VannelopeXD/output/snake.svg" alt="Snake animation" />
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@Vannelope/30-nites-of-code)  
+  ![@Vannelope #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Vannelope)
 
 ###
 
