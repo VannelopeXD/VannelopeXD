@@ -48,11 +48,7 @@
 
 <br clear="both">
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Vannelope/30-nites-of-code)  
-  ![@Vannelope #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Vannelope)
 
-###
 
 
 
